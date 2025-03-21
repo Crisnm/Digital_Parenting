@@ -11,4 +11,4 @@ Practical resources to help parents navigate their own real-world scenarios.
 I created this free online course to provide strategies and techniques that can help you with your parenting challenges in the online world. We go through a series of step-by-step videos to support your efforts in raising a health, safe and smart kid.
 
 # Newsletter
-I'm launching a digital parenting newsletter to help families navigate the online world with confidence! Each edition will bring news and expert insights to support your child's online safety and well-being.
+I'm launching a digital parenting newsletter to help families navigate the online world with confidence. Each edition will bring news and expert insights to support your child's online safety and well-being.
