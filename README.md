@@ -3,3 +3,6 @@ Digital parenting means supporting your children to thrive in the digital world 
 
 # Protege Kids Brasil
 My cybersecurity education project focuses on digital education for Brazilian families to ensure the online safety of children and teenagers.
+
+# Downloadable Resources
+Practical resources to help parents navigate their own real-world scenarios.
