@@ -7,5 +7,5 @@ My cybersecurity education project focuses on digital education for Brazilian fa
 # Downloadable Resources
 Practical resources to help parents navigate their own real-world scenarios.
 
-# Online Cyber ​​Safety for Parents
+# Cyber ​​Safety for Parents
 I created this free online course to provide strategies and techniques that can help you with your parenting challenges in the online world. We go through a series of step-by-step videos to support your efforts in raising a health, safe and smart kid.
