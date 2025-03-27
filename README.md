@@ -1,14 +1,32 @@
-# Digital_Parenting
-Digital parenting means supporting your children to thrive in the digital world and beyond. I’m developing some initiatives focused on helping them be prepared to deal with the evolve cyber threats.
+Welcome to the Digital Parenting Repository!
+This repository is for parents, relatives, educators, and anyone committed to keeping kids safe online. It provides practical methodologies, guides, tools, news, and resources to help you understand cyber threats and take proactive action before they impact your children.
 
-# Protege Kids Brasil
-My cybersecurity education project focuses on digital education for Brazilian families to ensure the online safety of children and teenagers.
+What is Digital Parenting?
+Digital parenting means empowering children to navigate the digital world safely and responsibly. Here, you'll find initiatives designed to prepare families for evolving cyber threats.
 
-# Downloadable Resources
-Practical resources to help parents navigate their own real-world scenarios. Available in English, French and Portuguese.
+Repository Structure
+This repository covers all aspects of online safety, from fundamental concepts to advanced threat detection techniques, including AI-powered strategies.
 
-# Cyber ​​Safety for Parents
-I created this free online course to provide strategies and techniques that can help you with your parenting challenges in the online world. We go through a series of step-by-step videos to support your efforts in raising a health, safe and smart kid.
+Protege Kids Brasil
+My cybersecurity education project focused on equipping Brazilian families with the knowledge to protect children and teens online.
 
-# Newsletter
-I'm launching a digital parenting newsletter to help families navigate the online world with confidence. Each edition will bring threat news and expert insights to support your child's online safety and well-being.
+Downloadable Resources
+Practical materials to help parents address real-world digital safety challenges. Available in English, French, and Portuguese.
+
+Cyber Safety for Parents
+A free online course providing step-by-step strategies to help parents navigate digital challenges and raise safe, smart, and resilient kids.
+
+Newsletter
+Stay informed with expert insights and the latest cyber threat updates to support your child’s online well-being.
+
+Reading & References
+A curated collection of books, research papers, blogs, newsletters, and conference talks to deepen your understanding of digital parenting.
+
+How to Use This Repository
+🔹 Learn – Start with Digital Parenting Fundamentals.
+🔹 Research – Use the News section to track real-world threats.
+🔹 Implement – Follow the guides for hands-on strategies with your kids.
+🔹 Contribute – Have insights or techniques to share? Feel free to contribute!
+
+Stay Updated
+Cyber threats evolve daily. Follow this repository to stay informed and protect the next generation.
